@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "astronomia",
+    "slug": "astronomia",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
